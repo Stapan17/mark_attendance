@@ -6,7 +6,7 @@ virtual_environment_name="venv"
 
 # creating virtual environment
 virtualenv $virtual_environment_name
-echo "Created new virtual environment $virtual_environment_name"
+echo "Created virtual environment $virtual_environment_name"
 
 # activating virtual environment
 source $virtual_environment_name/bin/activate
